@@ -1,2 +1,3 @@
-# Phone_Book
-An React phone book project. You can add, edit or delete contact.
+## Common files
+
+## Copy main folder from the project you want to run to component folder
