@@ -1,6 +1,6 @@
 ## Phone Book project - Storing Contact Details
 This project was made as part of my studies as an Software Practical Engineer.
-In this project example I will try to build a sample forms to store contact details that you choose. This project was created using Visual Studio Code.
+In this project I will try to build a sample forms to store contact details that you choose. This project was created using Visual Studio Code.
 
 ## To Be Honest
 Like I said before - this project was made as part of my studies.
